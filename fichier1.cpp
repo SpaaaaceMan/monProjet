@@ -1,1 +1,1 @@
-ceci est mon fichier 1;
+ceci mon fichier 1;
